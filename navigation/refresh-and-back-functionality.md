@@ -1,4 +1,4 @@
-# Refresh & back functionality
+# Refresh & back button
 
 ### **Pull-to-Refresh**
 
@@ -17,6 +17,7 @@ This feature adds a back button to your app whenever there is a web history avai
 If you need to change the word "Back" to another string, or restrict the visibility only to certain pages, you can edit the config directly in Import/Export section as follows.
 
 ```text
+// Example 1
 "toolbarNavigation": {
     "items": [{
             "system": "back",
@@ -25,6 +26,7 @@ If you need to change the word "Back" to another string, or restrict the visibil
     ]
 },
 
+// Example 2
 "toolbarNavigation": {
     "items": [{
             "system": "back",
@@ -33,6 +35,7 @@ If you need to change the word "Back" to another string, or restrict the visibil
     ]
 },
 
+// Example 3
 "toolbarNavigation": {
 	"visibility": "anyItemEnabled",
 	"items": [{

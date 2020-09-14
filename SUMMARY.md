@@ -19,8 +19,8 @@
 * [Navigation hierarchy](navigation/untitled-1.md)
 * [Navigation titles](navigation/navigation-titles.md)
 * [Internal vs. external links](navigation/internal-vs.-external-links.md)
-* [Refresh & back functionality](navigation/refresh-and-back-functionality.md)
-* [Untitled](navigation/untitled-2.md)
+* [Refresh & back button](navigation/refresh-and-back-functionality.md)
+* [Native search form](navigation/untitled-2.md)
 
 ## Navigation styling
 
