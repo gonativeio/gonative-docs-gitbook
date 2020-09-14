@@ -20,13 +20,13 @@ Next, enter labels and absolute URLs for each menu option. You may also re-order
 
 If you'd prefer your links to trigger various javascript commands, you may wish to specify URLs with the following syntax:
 
-```text
+```javascript
 javascript:alert('test');
 ```
 
 A more complicated example is to click an element when it exists, otherwise load a new URL.
 
-```text
+```javascript
 javascript:if (typeof jQuery === 'undefined' || jQuery('#linkElement').length == 0) window.location = 'http://example.com/target'; else jQuery('#linkElement').click();
 ```
 

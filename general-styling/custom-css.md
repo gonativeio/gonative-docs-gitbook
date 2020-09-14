@@ -4,7 +4,7 @@ You may enter any custom CSS that you would like applied to each page in your ap
 
 One of the most common reasons is to hide your web navigation elements when using native sidebar navigation. You may also hide arbitrary web elements within your app, such as the header and footer.
 
-```text
+```css
 .nav
 { 
 	display: none !important; 
