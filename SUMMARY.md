@@ -16,11 +16,16 @@
 * [Overview](navigation/untitled.md)
 * [Native sidebar navigation](navigation/native-sidebar-navigation.md)
 * [Native tab navigation](navigation/native-tab-navigation.md)
-* [Untitled](navigation/untitled-1.md)
+* [Navigation hierarchy](navigation/untitled-1.md)
+* [Navigation titles](navigation/navigation-titles.md)
+* [Internal vs. external links](navigation/internal-vs.-external-links.md)
+* [Refresh & back functionality](navigation/refresh-and-back-functionality.md)
+* [Untitled](navigation/untitled-2.md)
 
 ## Navigation styling
 
-* [Untitled](navigation-styling/untitled.md)
+* [iOS sidebar image](navigation-styling/untitled/README.md)
+  * [Navigation titles styling](navigation-styling/untitled/navigation-titles-styling.md)
 
 ## Push notifications
 
