@@ -1,4 +1,4 @@
-# XtremePush SDK
+# Xtremepush SDK
 
 ### Registration service and javascript info
 
