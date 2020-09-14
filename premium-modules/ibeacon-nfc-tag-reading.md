@@ -1,2 +1,0 @@
-# iBeacon / NFC tag reading
-

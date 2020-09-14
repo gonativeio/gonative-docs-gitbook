@@ -38,7 +38,7 @@
 * [AdMob Native Ads SDK](premium-modules/admob-native-ads-sdk.md)
 * [iOS Passbook](premium-modules/ios-passbook-implementation.md)
 * [Jailbreak / root detection](premium-modules/jailbreak-root-detection.md)
-* [iBeacon / NFC tag reading](premium-modules/ibeacon-nfc-tag-reading.md)
+* [NFC tag reading](premium-modules/nfc-tag-reading.md)
 * [Xtremepush SDK](premium-modules/xtremepush-sdk.md)
 * [Adjust Push SDK](premium-modules/adjust-push-sdk.md)
 
