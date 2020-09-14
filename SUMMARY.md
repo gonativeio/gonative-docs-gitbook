@@ -30,7 +30,7 @@
 * [Barcode Scanning SDK](premium-modules/barcode-scanning-sdk/README.md)
   * [Scandit Barcode Scanner](premium-modules/barcode-scanning-sdk/scandit-barcode-scanner.md)
   * [Open Source Scanner](premium-modules/barcode-scanning-sdk/open-source-scanner.md)
-* [Touch Id / Face Id / Biometric Authentication](premium-modules/touch-id-face-id-biometric-authentication.md)
+* [Biometric Authentication \(TouchId / FaceId\)](premium-modules/touch-id-face-id-biometric-authentication.md)
 * [In-App Purchases \("IAP"\)](premium-modules/in-app-purchases-iap.md)
 * [Offline Download Manager](premium-modules/offline-download-manager.md)
 * [Document Scanning SDK](premium-modules/document-scanning-sdk.md)
@@ -40,7 +40,6 @@
 * [Jailbreak / root detection](premium-modules/jailbreak-root-detection.md)
 * [NFC tag reading](premium-modules/nfc-tag-reading.md)
 * [Xtremepush SDK](premium-modules/xtremepush-sdk.md)
-* [Adjust Push SDK](premium-modules/adjust-push-sdk.md)
 
 ## Push notifications
 

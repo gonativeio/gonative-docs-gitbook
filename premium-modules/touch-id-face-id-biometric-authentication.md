@@ -1,2 +1,2 @@
-# Touch Id / Face Id / Biometric Authentication
+# Biometric Authentication \(TouchId / FaceId\)
 
