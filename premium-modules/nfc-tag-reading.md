@@ -8,7 +8,9 @@ This module allows the reading of NFC tags on iOS. We provide a javascript nativ
 
 #### Check for NFC availability
 
-Create a function that will receive the availability information. Then open the url gonative://nfc/status?callback=CALLBACK. For example:
+Create a function that will receive the availability information. Then open the url `gonative://nfc/status?callback=CALLBACK`. 
+
+For example:
 
 ```javascript
 // define callback function, do not call it yourself!
