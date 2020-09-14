@@ -2,7 +2,7 @@
 
 * [Getting started](README.md)
 
-## General Styling
+## General styling
 
 * [App icon](general-styling/untitled.md)
 * [Custom CSS](general-styling/custom-css.md)
@@ -18,11 +18,11 @@
 * [Native tab navigation](navigation/native-tab-navigation.md)
 * [Untitled](navigation/untitled-1.md)
 
-## Navigation Styling
+## Navigation styling
 
 * [Untitled](navigation-styling/untitled.md)
 
-## Push Notifications
+## Push notifications
 
 * [Untitled](push-notifications/untitled.md)
 
@@ -38,7 +38,11 @@
 
 * [Untitled](webview-settings/untitled.md)
 
-## Native Javascript Bridge <a id="native-js-bridge"></a>
+## Native javascript bridge <a id="native-js-bridge"></a>
 
 * [NativeJS - Tab menu](native-js-bridge/nativejs-tab-menu.md)
+
+## App store publishing
+
+* [Untitled](app-store-publishing/untitled.md)
 
