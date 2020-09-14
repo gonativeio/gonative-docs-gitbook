@@ -1,0 +1,2 @@
+# NativeJS - Explicit push consent
+

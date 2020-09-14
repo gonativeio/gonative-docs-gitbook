@@ -49,13 +49,30 @@
 
 ## Webview settings
 
-* [Untitled](webview-settings/untitled.md)
+* [Support window.open\(\)](webview-settings/untitled.md)
+* [Android webview permissions](webview-settings/android-webview-permissions.md)
+* [Force viewport width](webview-settings/force-viewport-width.md)
 
 ## Native javascript bridge <a id="native-js-bridge"></a>
 
+* [NativeJS - Sidebar navigation](native-js-bridge/nativejs-sidebar-navigation.md)
 * [NativeJS - Tab menu](native-js-bridge/nativejs-tab-menu.md)
+* [NativeJS - Share](native-js-bridge/nativejs-share.md)
+* [NativeJS - iOS location prompt](native-js-bridge/nativejs-ios-location-prompt.md)
+* [NativeJS - Android location](native-js-bridge/nativejs-android-location.md)
+* [NativeJS - OneSignal info](native-js-bridge/nativejs-onesignal-info.md)
+* [NativeJS - Device info](native-js-bridge/nativejs-device-info.md)
+* [NativeJS - iOS push registration](native-js-bridge/nativejs-ios-push-registration.md)
+* [NativeJS - Explicit push consent](native-js-bridge/nativejs-explicit-push-consent.md)
+* [NativeJS - Status bar styling](native-js-bridge/nativejs-status-bar-styling.md)
+* [NativeJS - Navigation titles](native-js-bridge/nativejs-navigation-titles.md)
+* [NativeJS - Navigation hierarchy](native-js-bridge/nativejs-navigation-hierarchy.md)
+* [NativeJS - App settings](native-js-bridge/nativejs-app-settings.md)
+* [NativeJS - Multiple calls](native-js-bridge/nativejs-multiple-calls.md)
 
 ## App store publishing
 
-* [Untitled](app-store-publishing/untitled.md)
+* [Overview](app-store-publishing/untitled.md)
+* [Apple App Store](app-store-publishing/apple-app-store.md)
+* [Google Play Store](app-store-publishing/google-play-store.md)
 
