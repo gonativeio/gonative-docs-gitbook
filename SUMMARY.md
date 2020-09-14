@@ -29,7 +29,9 @@
 
 ## Push notifications
 
-* [Untitled](push-notifications/untitled.md)
+* [Overview](push-notifications/untitled.md)
+* [OneSignal push configuration](push-notifications/onesignal-push-configuration.md)
+* [Sending personalized push](push-notifications/sending-personalized-push.md)
 
 ## Facebook App Events
 
