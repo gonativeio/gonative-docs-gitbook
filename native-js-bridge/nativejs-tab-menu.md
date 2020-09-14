@@ -2,7 +2,7 @@
 
 To select tabs:
 
-```text
+```javascript
 if (navigator.userAgent.indexOf('gonative') > -1) {
 window.location.href = 'gonative://tabs/select/1';
 }
@@ -12,7 +12,7 @@ Note that the tabs are 0-indexed, i.e. tabs/select/1 will select the second tab
 
 To change the tabs:
 
-```text
+```javascript
 var tabs = {
     "enabled": true,
     "items": [{
