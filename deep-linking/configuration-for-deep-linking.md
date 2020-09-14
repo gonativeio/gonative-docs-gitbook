@@ -38,6 +38,6 @@ Most likely, you will want to add your hostname with and without the 'www' prefi
 
 iOS URL Schemes and Android Verified App Links allow the specified URLs to open automatically in your app, without requiring the user to select the app. This is helpful in login redirect flows, or for a more seamless user experience. 
 
-* [https://developer.android.com/training/app-links/verify-site-associations](https://developer.android.com/training/app-links/verify-site-associations)
-* [https://developer.apple.com/documentation/xcode/allowing\_apps\_and\_websites\_to\_link\_to\_your\_content/defining\_a\_custom\_url\_scheme\_for\_your\_app](https://developer.apple.com/documentation/xcode/allowing_apps_and_websites_to_link_to_your_content/defining_a_custom_url_scheme_for_your_app)
+* [Android Verified App Links](https://developer.android.com/training/app-links/verify-site-associations)
+* [iOS URL Schemes](https://developer.apple.com/documentation/xcode/allowing_apps_and_websites_to_link_to_your_content/defining_a_custom_url_scheme_for_your_app)
 
