@@ -1,8 +1,8 @@
-# Configuration for deep linking
+---
+description: 'Open links in your app, not the mobile browser'
+---
 
-With deep linking enabled, when users click a link to your website on their mobile device, it will be opened and handled within your app rather than by the user's mobile browser.
-
-### Universal links
+# Universal links
 
 When deep linking is enabled, and a user clicks a link on their device matching a domain specified below, the user will be prompted to open the link within your app rather than in the mobile browser.
 
@@ -33,11 +33,4 @@ _NOTE: Deep Links on iOS will not work unless a PATH is specified as part of the
 ![](https://gonative.io/images/docs/associated_domains.png)
 
 Most likely, you will want to add your hostname with and without the 'www' prefix. For example, to support Deep Links on GoNative.io, you would add 'gonative.io', and 'www.gonative.io'.
-
-### URL Schemes & Verified App Links
-
-iOS URL Schemes and Android Verified App Links allow the specified URLs to open automatically in your app, without requiring the user to select the app. This is helpful in login redirect flows, or for a more seamless user experience. 
-
-* [Android Verified App Links](https://developer.android.com/training/app-links/verify-site-associations)
-* [iOS URL Schemes](https://developer.apple.com/documentation/xcode/allowing_apps_and_websites_to_link_to_your_content/defining_a_custom_url_scheme_for_your_app)
 

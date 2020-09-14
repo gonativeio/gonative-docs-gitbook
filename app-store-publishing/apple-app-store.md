@@ -1,5 +1,15 @@
 # Apple App Store
 
+If you are a developer, you may simply download the complete source code for your app and publish using standard methods.
+
+GoNative offers various configuration, consulting and publishing services. Please [email us](mailto:hello@gonative.io) if you may be interested.
+
+### iOS Bundle Id
+
+The Bundle Id is never visible to end users. However, it is required to match the provisioning profiles and certificates you set up in your Apple developer account prior to publishing.
+
+Apple recommends the Bundle Id follow reverse domain name service notation. For example, if your website is `example.com`, your Bundle Id might be `com.example.app`.
+
 ### **Apple Developer Account**
 
 You must have a valid Apple Developer Account in order to publish your app to the Apple App Store.
