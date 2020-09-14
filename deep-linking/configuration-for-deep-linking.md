@@ -1,8 +1,8 @@
 # Configuration for deep linking
 
-With Deep Linking enabled, when users click a link to your website on their mobile device, it will be opened and handled within your app rather than by the user's mobile browser.
+With deep linking enabled, when users click a link to your website on their mobile device, it will be opened and handled within your app rather than by the user's mobile browser.
 
-### Configuration for Deep Linking
+### Universal links
 
 When deep linking is enabled, and a user clicks a link on their device matching a domain specified below, the user will be prompted to open the link within your app rather than in the mobile browser.
 
@@ -28,9 +28,16 @@ For Apple, please follow the three requirements below:
 
 TEAMID comes from Apple and identifies the developer account. Learn more at [Apple Documentation](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/AppSearch/UniversalLinks.html).
 
-NOTE: Deep Links on iOS will not work unless a PATH is specified as part of the URL. For example, http://example.com/ will NOT work, but http://example.com/PATH will work.
+_NOTE: Deep Links on iOS will not work unless a PATH is specified as part of the URL. For example, http://example.com/ will NOT work, but http://example.com/PATH will work._
 
 ![](https://gonative.io/images/docs/associated_domains.png)
 
 Most likely, you will want to add your hostname with and without the 'www' prefix. For example, to support Deep Links on GoNative.io, you would add 'gonative.io', and 'www.gonative.io'.
+
+### URL Schemes & Verified App Links
+
+iOS URL Schemes and Android Verified App Links allow the specified URLs to open automatically in your app, without requiring the user to select the app. This is helpful in login redirect flows, or for a more seamless user experience. 
+
+* [https://developer.android.com/training/app-links/verify-site-associations](https://developer.android.com/training/app-links/verify-site-associations)
+* [https://developer.apple.com/documentation/xcode/allowing\_apps\_and\_websites\_to\_link\_to\_your\_content/defining\_a\_custom\_url\_scheme\_for\_your\_app](https://developer.apple.com/documentation/xcode/allowing_apps_and_websites_to_link_to_your_content/defining_a_custom_url_scheme_for_your_app)
 
