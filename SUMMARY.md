@@ -35,11 +35,17 @@
 
 ## Facebook App Events
 
-* [Untitled](facebook-app-events/untitled.md)
+* [Overview](facebook-app-events/untitled.md)
+
+## Deep linking
+
+* [Configuration for deep linking](deep-linking/configuration-for-deep-linking.md)
 
 ## Build settings
 
-* [Untitled](build-settings/untitled.md)
+* [iOS Bundle Id](build-settings/untitled.md)
+* [Android package name](build-settings/android-package-name.md)
+* [Android version name](build-settings/android-version-name.md)
 
 ## Webview settings
 
