@@ -24,8 +24,8 @@
 
 ## Navigation styling
 
-* [iOS sidebar image](navigation-styling/untitled/README.md)
-  * [Navigation titles styling](navigation-styling/untitled/navigation-titles-styling.md)
+* [Navigation titles styling](navigation-styling/navigation-titles-styling.md)
+* [iOS sidebar image](navigation-styling/untitled.md)
 
 ## Push notifications
 
