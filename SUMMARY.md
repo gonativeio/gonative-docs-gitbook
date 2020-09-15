@@ -14,7 +14,7 @@
 * [Overview](navigation/untitled.md)
 * [Native sidebar navigation](navigation/native-sidebar-navigation.md)
 * [Native tab navigation](navigation/native-tab-navigation.md)
-* [Navigation hierarchy](navigation/untitled-1.md)
+* [Navigation hierarchy](navigation/navigation-hierarchy.md)
 * [Navigation titles](navigation/navigation-titles.md)
 * [Internal vs. external links](navigation/internal-vs.-external-links.md)
 * [Refresh & back button](navigation/refresh-and-back-functionality.md)
