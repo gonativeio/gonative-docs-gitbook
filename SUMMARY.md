@@ -33,7 +33,7 @@
 
 ## Webview settings
 
-* [Support window.open\(\)](webview-settings/untitled.md)
+* [Support window.open\(\)](webview-settings/window-open.md)
 * [Android webview permissions](webview-settings/android-webview-permissions.md)
 * [Force viewport width](webview-settings/force-viewport-width.md)
 
