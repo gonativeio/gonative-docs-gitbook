@@ -1,12 +1,14 @@
 # NFC tag reading
 
-### Overview
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality._
+
+## Overview
 
 This module allows the reading of NFC tags on iOS. We provide a javascript native bridge to initiate tag reading while the app is open. On supported devices running iOS 12 or later, we also support background tag reading for apps with universal links.
 
-### Implementation Guide
+## Implementation Guide
 
-#### Check for NFC availability
+### Check for NFC availability
 
 Create a function that will receive the availability information. Then open the url `gonative://nfc/status?callback=CALLBACK`. 
 
@@ -24,7 +26,7 @@ function nfcStatusCallback(data) {
 window.location.href = 'gonative://nfc/status?callback=nfcStatusCallback';
 ```
 
-#### Initiate tag reading
+### Initiate tag reading
 
 Create a function that will receive the tag data. Then open the url gonative://nfc/readTag with query params:
 
