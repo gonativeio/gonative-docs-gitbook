@@ -59,7 +59,7 @@
 
 ## Native javascript bridge <a id="native-js-bridge"></a>
 
-* [NativeJS Bridge Overview](native-js-bridge/nativejs-bridge-overview.md)
+* [NativeJS - Bridge Overview](native-js-bridge/nativejs-bridge-overview.md)
 * [NativeJS - Sidebar navigation](native-js-bridge/nativejs-sidebar-navigation.md)
 * [NativeJS - Tab menu](native-js-bridge/nativejs-tab-menu.md)
 * [NativeJS - Share](native-js-bridge/nativejs-share.md)

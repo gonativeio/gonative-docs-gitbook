@@ -1,4 +1,4 @@
-# NativeJS Bridge Overview
+# NativeJS - Bridge Overview
 
 NativeJS Bridge enables you to control native functionalities in your app directly via javascript.
 
