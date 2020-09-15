@@ -53,7 +53,7 @@ For example:
   "beacons": [
 {
   "format": "iBeacon",
-  "uuid": " 9A615AD4-8E6A-43BC-BC27-82171491A2AA",
+  "uuid": "9C615AD4-8E6A-53BC-BC27-82171491A2WA",
   "major": 1000,
   "minor": 123,
   "rssi": -52,
@@ -62,7 +62,7 @@ For example:
 },
 {
   "format": "iBeacon",
-  "uuid": " 9A615AD4-8E6A-43BC-BC27-82171491A2AA",
+  "uuid": "9C615AD4-8E6A-53BC-BC27-82171491A2WB",
   "major": 1001,
   "minor": 1321,
   "rssi": -78,
