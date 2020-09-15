@@ -23,9 +23,9 @@ You may also add a value field for tags and events, e.g.
 
 ### Additional resources 
 
-More documentation on registration service callback functions [here](../push-notifications/sending-personalized-push.md)
+More documentation on registration service callback functions [here](../../push-notifications/sending-personalized-push.md)
 
-Learn more about how to use NativeJS Bridge [here](../native-js-bridge/nativejs-bridge-overview.md)
+Learn more about how to use NativeJS Bridge [here](../../native-js-bridge/nativejs-bridge-overview.md)
 
 How to detect usage coming from your apps [http://support.gonative.io/knowledge\_base/topics/how-do-i-detect-usage-coming-from-my-apps](http://support.gonative.io/knowledge_base/topics/how-do-i-detect-usage-coming-from-my-apps)
 

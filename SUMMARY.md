@@ -39,7 +39,8 @@
 * [iOS Passbook](premium-modules/ios-passbook-implementation.md)
 * [Jailbreak / root detection](premium-modules/jailbreak-root-detection.md)
 * [NFC tag reading](premium-modules/nfc-tag-reading.md)
-* [Xtremepush SDK](premium-modules/xtremepush-sdk.md)
+* [Push notification SDKs](premium-modules/push-notification-sdks/README.md)
+  * [Xtremepush SDK](premium-modules/push-notification-sdks/xtremepush-sdk.md)
 
 ## Push notifications
 
