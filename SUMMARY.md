@@ -4,7 +4,7 @@
 
 ## General styling
 
-* [App icon](general-styling/untitled.md)
+* [App icon](general-styling/app-icon.md)
 * [Custom CSS](general-styling/custom-css.md)
 * [Native page transitions](general-styling/native-page-transitions.md)
 * [Launch images](general-styling/launch-images.md)
