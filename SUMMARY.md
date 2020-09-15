@@ -18,7 +18,7 @@
 * [Navigation titles](navigation/navigation-titles.md)
 * [Internal vs. external links](navigation/internal-vs.-external-links.md)
 * [Refresh & back button](navigation/refresh-and-back-functionality.md)
-* [Native search form](navigation/untitled-2.md)
+* [Native search form](navigation/native-search-form.md)
 
 ## Push notifications
 
