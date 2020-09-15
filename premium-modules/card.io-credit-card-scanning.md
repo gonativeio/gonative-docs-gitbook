@@ -1,6 +1,8 @@
 # Card.IO credit card scanning
 
-### Overview
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality_.
+
+### Overview
 
 This module integrates the Card.IO Native SDK into your app. More info at [https://www.card.io/](https://www.card.io/)
 

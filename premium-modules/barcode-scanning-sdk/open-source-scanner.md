@@ -1,5 +1,7 @@
 # Open Source Scanner
 
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality._
+
 ### Overview
 
 This implementation of Barcode Scanning SDK uses open source libraries which do not require any additional paid license.

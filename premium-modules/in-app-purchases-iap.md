@@ -1,5 +1,7 @@
 # In-App Purchases \("IAP"\)
 
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality._
+
 ## Overview
 
 In-app purchases provide additional channels to monetize your app. iOS contains these types of in-app purchases:

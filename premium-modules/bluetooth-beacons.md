@@ -1,6 +1,8 @@
 # Bluetooth beacons
 
-## Overview
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality_.
+
+## Overview
 
 This module allows the scanning of nearby Bluetooth Low-Energy beacons that conform to the iBeacon spec. It provides a native bridge to retrieve the list of nearby beacons and their identifying information.
 

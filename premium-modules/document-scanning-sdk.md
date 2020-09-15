@@ -1,8 +1,8 @@
-# Document Scanning SDK
+# Document scanning SDK
+
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality._
 
 ### Implementation Guide
-
-Once the premium module has been added to your app, you may use the following APIs to access its functionality.
 
 Create a javascript function to accept a scanned image. It will be called with an object with the fields:
 

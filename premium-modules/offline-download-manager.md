@@ -1,7 +1,7 @@
-# Offline Download Manager
+# Offline download manager
 
   
-Once the premium module has been added to your app, you may use the following APIs to access its functionality.
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality._
 
 ### Initialization
 

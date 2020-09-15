@@ -1,5 +1,7 @@
 # iOS Passbook
 
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality._
+
 ### Overview 
 
 Client web server is responsible for creating pass packages for download onto user’s devices. A pass package consists of a JSON file that defines several data elements, including any bar codes, images, and optionally localization files \(language-specific images and strings\). Each pass has a type, which needs to be registered with Apple like bundle ids are, e.g. pass.com.example.event-ticket. Each pass needs to have a unique serial number, which is an opaque string used to identify the instance of a pass. To update an existing pass, a new pass needs to be created with the same serial number. Passes are automatically synced between a user's devices, and to their Apple Watch.

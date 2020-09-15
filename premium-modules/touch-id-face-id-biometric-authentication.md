@@ -1,6 +1,8 @@
-# Biometric Authentication \(TouchId / FaceId\)
+# Biometric authentication \(TouchId / FaceId\)
 
-## Overview
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality._
+
+## Overview
 
 Fingerprint technology has been accessible to apps running on iOS devices starting with the iPhone 5s running iOS 9.0, and Android devices starting with Android 6.0 \(Marshmallow\). GoNative's fingerprint module enables this convenient and secure means of authenticating users of your app. FaceID is also supported for newer iOS devices.
 

@@ -7,9 +7,7 @@
 * [App icon](general-styling/untitled.md)
 * [Custom CSS](general-styling/custom-css.md)
 * [Native page transitions](general-styling/native-page-transitions.md)
-* [Launch images](general-styling/launch-images/README.md)
-  * [iOS launch images](general-styling/launch-images/ios-launch-images.md)
-  * [Android launch images](general-styling/launch-images/android-launch-images.md)
+* [Launch images](general-styling/launch-images.md)
 
 ## Navigation
 
@@ -21,27 +19,6 @@
 * [Internal vs. external links](navigation/internal-vs.-external-links.md)
 * [Refresh & back button](navigation/refresh-and-back-functionality.md)
 * [Native search form](navigation/untitled-2.md)
-
-## Premium modules
-
-* [Facebook app events](premium-modules/untitled-1.md)
-* [Card.IO credit card scanning](premium-modules/card.io-credit-card-scanning.md)
-* [Access to Native Contacts](premium-modules/access-to-native-contacts.md)
-* [Barcode Scanning SDK](premium-modules/barcode-scanning-sdk/README.md)
-  * [Scandit Barcode Scanner](premium-modules/barcode-scanning-sdk/scandit-barcode-scanner.md)
-  * [Open Source Scanner](premium-modules/barcode-scanning-sdk/open-source-scanner.md)
-* [Biometric Authentication \(TouchId / FaceId\)](premium-modules/touch-id-face-id-biometric-authentication.md)
-* [In-App Purchases \("IAP"\)](premium-modules/in-app-purchases-iap.md)
-* [Offline Download Manager](premium-modules/offline-download-manager.md)
-* [Document Scanning SDK](premium-modules/document-scanning-sdk.md)
-* [Background Location Services](premium-modules/background-location-services.md)
-* [AdMob Native Ads SDK](premium-modules/admob-native-ads-sdk.md)
-* [iOS Passbook](premium-modules/ios-passbook-implementation.md)
-* [Jailbreak / root detection](premium-modules/jailbreak-root-detection.md)
-* [NFC tag reading](premium-modules/nfc-tag-reading.md)
-* [Bluetooth beacons](premium-modules/bluetooth-beacons.md)
-* [Push notification SDKs](premium-modules/push-notification-sdks/README.md)
-  * [Xtremepush SDK](premium-modules/push-notification-sdks/xtremepush-sdk.md)
 
 ## Push notifications
 
@@ -59,6 +36,26 @@
 * [Support window.open\(\)](webview-settings/untitled.md)
 * [Android webview permissions](webview-settings/android-webview-permissions.md)
 * [Force viewport width](webview-settings/force-viewport-width.md)
+
+## Premium modules
+
+* [Custom development](premium-modules/custom-development.md)
+* [Biometric authentication \(TouchId / FaceId\)](premium-modules/touch-id-face-id-biometric-authentication.md)
+* [Bluetooth beacons](premium-modules/bluetooth-beacons.md)
+* [Access to native contacts](premium-modules/access-to-native-contacts.md)
+* [Background location services](premium-modules/background-location-services.md)
+* [Facebook app events](premium-modules/untitled-1.md)
+* [Card.IO credit card scanning](premium-modules/card.io-credit-card-scanning.md)
+* [Barcode scanning SDK](premium-modules/barcode-scanning-sdk/README.md)
+  * [Scandit Barcode Scanner](premium-modules/barcode-scanning-sdk/scandit-barcode-scanner.md)
+  * [Open Source Scanner](premium-modules/barcode-scanning-sdk/open-source-scanner.md)
+* [In-App Purchases \("IAP"\)](premium-modules/in-app-purchases-iap.md)
+* [Offline download manager](premium-modules/offline-download-manager.md)
+* [Document scanning SDK](premium-modules/document-scanning-sdk.md)
+* [AdMob native ads SDK](premium-modules/admob-native-ads-sdk.md)
+* [iOS Passbook](premium-modules/ios-passbook-implementation.md)
+* [Jailbreak / root detection](premium-modules/jailbreak-root-detection.md)
+* [NFC tag reading](premium-modules/nfc-tag-reading.md)
 
 ## Native javascript bridge <a id="native-js-bridge"></a>
 

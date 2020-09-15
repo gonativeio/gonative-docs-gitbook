@@ -1,5 +1,7 @@
 # Scandit Barcode Scanner
 
+_Once the premium module has been added to your app, you may use the following APIs to access its functionality._
+
 ### Scandit Barcode Scanner
 
 Once the premium module has been added to your app, you may use the following APIs to access its functionality.
