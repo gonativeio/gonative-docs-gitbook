@@ -44,7 +44,7 @@
 * [Bluetooth beacons](premium-modules/bluetooth-beacons.md)
 * [Access to native contacts](premium-modules/access-to-native-contacts.md)
 * [Background location services](premium-modules/background-location-services.md)
-* [Facebook app events](premium-modules/untitled-1.md)
+* [Facebook app events](premium-modules/facebook-app-events.md)
 * [Card.IO credit card scanning](premium-modules/card.io-credit-card-scanning.md)
 * [Barcode scanning SDK](premium-modules/barcode-scanning-sdk/README.md)
   * [Scandit Barcode Scanner](premium-modules/barcode-scanning-sdk/scandit-barcode-scanner.md)
