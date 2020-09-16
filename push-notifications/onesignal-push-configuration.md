@@ -25,6 +25,10 @@ Once you have a Google developer account set up, you may generate your Project N
 
 For iOS, OneSignal sends push notifications through Apple's APNS service. For this to work, you will need to upload to OneSignal your Apple Push Notification certificates that you generate through [developer.apple.com](https://developer.apple.com). A complete guide for this is available on OneSignal's website at [https://documentation.onesignal.com/docs/generate-an-ios-push-certificate](https://documentation.onesignal.com/docs/generate-an-ios-push-certificate).
 
+{% hint style="danger" %}
+GoNative apps use the OneSignal SDKs for iOS and Android. We integrate these for you. Using OneSignal's Web SDK in your GoNative apps to send native push notifications will not work. 
+{% endhint %}
+
 ### **Configure your GoNative App**
 
 GoNative requires just your OneSignal App Id in order to configure OneSignal to work within your app. You will find this on your OneSignal Dashboard under App Settings -&gt; Keys & IDs.
