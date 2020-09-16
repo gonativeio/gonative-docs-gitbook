@@ -6,5 +6,15 @@ For iOS, there may be some system-level dialogs that appear in your app. In orde
 
 To enable this feature, you must add eg. `"languages": ["fr", "de"]` field under "general" section in Import/Export section when editing your app. We currently support French `"fr"` and German `"de"`.  
 
+```javascript
+// eg. see below for supporting French, in addition to English
+{
+    "general" : {
+        "languages" : ["fr"],
+        ...
+    }, ...
+}
+```
+
 If you require additional language support for these system-level dialogs, please [send us an email](mailto:hello@gonative.io) with the language, the language code, and translations for "Cancel", "Ok", "View", and "Menu". 
 
