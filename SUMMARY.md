@@ -34,8 +34,9 @@
 ## Webview settings
 
 * [Support window.open\(\)](webview-settings/window-open.md)
-* [Android webview permissions](webview-settings/android-webview-permissions.md)
+* [Android permissions](webview-settings/android-webview-permissions.md)
 * [Force viewport width](webview-settings/force-viewport-width.md)
+* [Supporting additional languages](webview-settings/supporting-additional-languages.md)
 
 ## Premium modules
 

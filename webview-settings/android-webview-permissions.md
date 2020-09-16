@@ -1,4 +1,4 @@
-# Android webview permissions
+# Android permissions
 
 Android requires adding certain permissions to your AndroidManifest.xml depending on which settings you select. These include:
 
