@@ -75,6 +75,7 @@
 * [NativeJS - Navigation hierarchy](native-js-bridge/nativejs-navigation-hierarchy.md)
 * [NativeJS - App settings](native-js-bridge/nativejs-app-settings.md)
 * [NativeJS - Multiple calls](native-js-bridge/nativejs-multiple-calls.md)
+* [NativeJS - Clear webview cache](native-js-bridge/nativejs-clear-webview-cache.md)
 
 ## App store publishing
 
