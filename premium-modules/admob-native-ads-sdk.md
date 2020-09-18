@@ -34,3 +34,23 @@ Alternatively, open the url `gonative://admob/showInterstitialOnNextPageLoadIfRe
 
 Open the urls `gonative://admob/banner/enable` and `gonative://admob/banner/disable` to enable and disable the banner ad.
 
+### iOS 14 Tracking Consent
+
+iOS 14 requires user consent for applications to use the IDFA \(Identifier for Advertisers\). Given consent, Admob will use IDFA, otherwise it will fall back to less targeted identifiers.
+
+To prompt the user for tracking consent, open the url:
+
+`gonative://admob/request/tracking?callback=trackingCallback`
+
+`callback` is an optional parameter to get the result of the user decision. It should be the name of a javascript function that will receive the result. The result will be an object with a status string, which can be "authorized", "denied", or "restricted" \(denied by corporate policy or user is under age\). For example:
+
+```text
+function trackingCallback(result) {
+  if (result.status === 'authorized') {
+    alert('Thank you for enabling personalized ads');
+  }
+}
+```
+
+
+
