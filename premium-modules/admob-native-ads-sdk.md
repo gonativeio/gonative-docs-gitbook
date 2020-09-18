@@ -36,7 +36,7 @@ Open the urls `gonative://admob/banner/enable` and `gonative://admob/banner/disa
 
 ### iOS 14 Tracking Consent
 
-iOS 14 requires user consent for applications to use the IDFA \(Identifier for Advertisers\). Given consent, Admob will use IDFA, otherwise it will fall back to less targeted identifiers.
+iOS 14 requires user consent for applications to use the IDFA \(Identifier for Advertisers\). Given consent, AdMob will use IDFA, otherwise it will fall back to less targeted identifiers.
 
 To prompt the user for tracking consent, open the url:
 
