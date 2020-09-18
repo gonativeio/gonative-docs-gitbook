@@ -44,7 +44,7 @@ To prompt the user for tracking consent, open the url:
 
 `callback` is an optional parameter to get the result of the user decision. It should be the name of a javascript function that will receive the result. The result will be an object with a status string, which can be "authorized", "denied", or "restricted" \(denied by corporate policy or user is under age\). For example:
 
-```text
+```javascript
 function trackingCallback(result) {
   if (result.status === 'authorized') {
     alert('Thank you for enabling personalized ads');
