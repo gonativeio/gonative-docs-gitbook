@@ -64,6 +64,7 @@
 * [NativeJS - Sidebar navigation](native-js-bridge/nativejs-sidebar-navigation.md)
 * [NativeJS - Tab menu](native-js-bridge/nativejs-tab-menu.md)
 * [NativeJS - Share](native-js-bridge/nativejs-share.md)
+* [NativeJS - Download file](native-js-bridge/nativejs-download-file.md)
 * [NativeJS - iOS location prompt](native-js-bridge/nativejs-ios-location-prompt.md)
 * [NativeJS - Android location](native-js-bridge/nativejs-android-location.md)
 * [NativeJS - OneSignal info](native-js-bridge/nativejs-onesignal-info.md)
