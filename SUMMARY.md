@@ -23,7 +23,7 @@
 ## Push notifications
 
 * [OneSignal push configuration](push-notifications/onesignal-push-configuration.md)
-* [Salesforce Marketing Cloud MobilePush](push-notifications/salesforce-marketing-cloud-mobilepush.md)
+* [Salesforce Marketing Cloud Push Notifications](push-notifications/salesforce-marketing-cloud-mobilepush.md)
 * [Sending personalized push](push-notifications/sending-personalized-push.md)
 * [Integrating other push providers](push-notifications/integrating-other-push-providers.md)
 

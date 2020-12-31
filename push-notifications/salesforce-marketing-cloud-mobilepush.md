@@ -1,4 +1,4 @@
-# Salesforce Marketing Cloud MobilePush
+# Salesforce Marketing Cloud Push Notifications
 
 ###  Prompt user to allow push notifications
 
