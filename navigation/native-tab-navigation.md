@@ -2,7 +2,7 @@
 
 ### **Overview**
 
-Configure your app to use a native tab menu, with optional icons and labels. Tabs appear at the bottom of the screen on both Android and iOS iOS.
+Configure your app to use a native tab menu, with optional icons and labels. Tabs appear at the bottom of the screen on both Android and iOS.
 
 ### **Selecting tabs**
 
