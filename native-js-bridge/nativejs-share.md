@@ -9,8 +9,9 @@ window.location.href = 'gonative://share/sharePage';
 You may also use the following to share a URL other than the current URL:
 
 ```javascript
-window.location.href="gonative://share/sharePage?url=http://example.com”; 
+window.location.href='gonative://share/sharePage?url=http://example.com'; 
 ```
 
-Please make sure to URL-encode the URL you use, i.e. `https://example.com` -&gt; `https%3A%2F%2Fexample.com`
+Please make sure to URL-encode the URL you use   
+`https://example.com` -&gt; `encodeURIComponent(https://example.com)` -&gt; `https%3A%2F%2Fexample.com`
 
